@@ -1,0 +1,8 @@
+BeautyCart · créditos
+
+Diseño y desarrollo de la tienda demo: Xioleni Salazar
+Sitio web: https://xioleni.com
+
+BeautyCart es una demostración. Los productos, precios, cupones y compras son ilustrativos; no representa una tienda con procesamiento real de pagos.
+
+Al compartir o adaptar este proyecto, acredita el diseño y desarrollo a Xioleni Salazar (xioleni.com).
