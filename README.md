@@ -1,34 +1,36 @@
-# BeautyCart
+# Tienda de maquillaje · BeautyCart (demo)
 
-**A responsive beauty e-commerce interface demo by Xioleni Salazar.**
+**Diseño y desarrollo: Xioleni Salazar** · [Portafolio](https://xioleni.com/)
 
-BeautyCart explores the shopping journey for a cosmetics storefront, from product discovery to a persistent cart. It is a front-end prototype made with HTML, CSS, and JavaScript.
+[Abrir la demo](https://xioleni.com/proyectos/plataforma-maquillaje/)
 
-**Vista previa:** [Abrir BeautyCart](https://xioleni.com/proyectos/plataforma-maquillaje/)
+## Descripción del proyecto
 
-## Features
+Plataforma e-commerce de maquillaje con catálogo, filtros, búsqueda y carrito persistente. La demo presenta un recorrido de compra sencillo: explorar productos, encontrarlos por categoría o búsqueda y revisar el pedido desde un carrito lateral.
 
-- Searchable product catalog with category filters
-- Product cards, offers, and demo coupons
-- Cart quantities and browser storage persistence
-- Responsive layout and optimized WebP product imagery
+## Ficha del proyecto
 
-## Run locally
+- **Tipo:** e-commerce de demostración con carrito.
+- **Código:** HTML · CSS · JavaScript.
+- **Dificultad:** Media.
+- **Enfoque:** catálogo rápido, fricción mínima durante la compra y una interfaz femenina premium.
 
-Open `index.html` in a modern browser, or serve the folder locally:
+## Qué incluye
 
-```powershell
-py -m http.server 8000
-```
+- Catálogo organizado por categorías y búsqueda instantánea.
+- Carrito tipo drawer con actualización de cantidades.
+- Cupones de demostración y cálculo de subtotal, envío y total.
+- Persistencia del carrito mediante `localStorage`.
+- Diseño adaptable a pantallas de escritorio y móviles.
 
-Then visit `http://localhost:8000`.
+## Alcance de la demo
 
-## Demo scope
+Productos, precios y cupones son ilustrativos. El carrito sirve para demostrar la interacción y persistencia en el navegador; no procesa pagos ni realiza pedidos reales.
 
-Products, prices, coupons, and cart contents are illustrative. The demo does not process payments or place real orders.
+## Ejecutar localmente
 
-## Credits
+Abre `index.html` en un navegador o sirve la carpeta con `py -m http.server 8000`; luego visita `http://localhost:8000`.
 
-Design and development: **Xioleni Salazar** · [xioleni.com](https://xioleni.com)
+## Créditos
 
-See [`CREDITOS.txt`](CREDITOS.txt) for the project attribution note.
+Diseño e implementación de **Xioleni Salazar**.
