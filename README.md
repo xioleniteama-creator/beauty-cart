@@ -2,7 +2,7 @@
 
 **Diseño y desarrollo: Xioleni Salazar** · [Portafolio](https://xioleni.com/)
 
-[Abrir la demo](https://xioleni.com/proyectos/plataforma-maquillaje/)\n\n![Captura del cat&aacute;logo BeautyCart con productos de maquillaje y controles de b&uacute;squeda.](docs/screenshots/beauty-cart.png)
+[Abrir la demo](https://xioleni.com/proyectos/plataforma-maquillaje/)
 
 ## Descripción del proyecto
 
