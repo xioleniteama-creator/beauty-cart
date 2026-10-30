@@ -4,6 +4,8 @@
 
 [Abrir la demo](https://xioleni.com/proyectos/plataforma-maquillaje/)
 
+![Captura del cat&aacute;logo BeautyCart con productos de maquillaje y controles de b&uacute;squeda.](docs/screenshots/beauty-cart.png)
+
 ## Descripción del proyecto
 
 Plataforma e-commerce de maquillaje con catálogo, filtros, búsqueda y carrito persistente. La demo presenta un recorrido de compra sencillo: explorar productos, encontrarlos por categoría o búsqueda y revisar el pedido desde un carrito lateral.
@@ -39,7 +41,6 @@ Diseño e implementación de **Xioleni Salazar**.
 
 Tienda de maquillaje: cat&aacute;logo visual, b&uacute;squeda, filtros y carrito persistente.
 
-![Captura del cat&aacute;logo BeautyCart con productos de maquillaje y controles de b&uacute;squeda.](docs/screenshots/beauty-cart.png)
 
 **Demo:** consulta el enlace indicado arriba. **C&oacute;digo:** abre este repositorio. Las capturas muestran el proyecto local tal como est&aacute; en este c&oacute;digo.
 
